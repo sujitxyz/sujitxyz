@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @sujitxyz
 - 👀 I’m interested in creating a whole system from scratch.
-- 🌱 I’m currently learning  Java. 
+- 🌱 I’m currently learning  Javascript. 
